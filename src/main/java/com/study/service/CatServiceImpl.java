@@ -1,6 +1,6 @@
-package com.zhoubin.service;
+package com.study.service;
 
-import com.zhoubin.service.Command;
+import com.study.service.Command;
 
 public class CatServiceImpl implements Command {
     public void excute() {

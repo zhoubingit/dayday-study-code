@@ -1,9 +1,9 @@
-package com.zhoubin.decorator;
+package com.study.decorator;
 
-import com.zhoubin.decorator.LoggerDecorator;
-import com.zhoubin.decorator.TimerDecorator;
-import com.zhoubin.service.CatServiceImpl;
-import com.zhoubin.service.Command;
+import com.study.decorator.LoggerDecorator;
+import com.study.decorator.TimerDecorator;
+import com.study.service.CatServiceImpl;
+import com.study.service.Command;
 
 import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReentrantLock;

@@ -1,0 +1,34 @@
+# Compiled class file
+*.class
+ 
+# Log file
+*.log
+*.log.*
+
+# Package Files #
+*.jar
+*.war
+
+#resources
+/static-resource/
+
+# Eclipse Project files
+.classpath
+.project
+.settings/
+/target/
+
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+/.apt_generated/
+/.classpath
+/.factorypath
+/.project
+/.settings/
+/.springBeans
+/.idea
+.DS_Store

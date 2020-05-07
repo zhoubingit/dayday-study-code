@@ -1,6 +1,6 @@
-package com.zhoubin.decorator;
+package com.study.decorator;
 
-import com.zhoubin.service.Command;
+import com.study.service.Command;
 
 public class TimerDecorator implements Command {
 
