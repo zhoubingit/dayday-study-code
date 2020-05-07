@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.study</groupId>
-    <artifactId>spring-boot-helloword</artifactId>
+    <artifactId>dayday-study-code</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <parent>
