@@ -1,4 +1,4 @@
-package com.zhoubin.test;
+package com.study.test;
 
 import java.awt.AWTException;
 import java.awt.Robot;
