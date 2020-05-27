@@ -30,6 +30,13 @@ public class LinkSum2Link {
         ListNodeUtil.print(l1);
         ListNodeUtil.print(l2);
         ListNodeUtil.print(listNode);
+        System.out.println("-----------------------------------------------");
+        l1 = ListNodeUtil.createListNode(2, 4, 3);
+        l2 = ListNodeUtil.createListNode(5, 6, 6, 5, 4);
+        listNode = sumLink(l1, l2);
+        ListNodeUtil.print(l1);
+        ListNodeUtil.print(l2);
+        ListNodeUtil.print(listNode);
     }
 
     /**
